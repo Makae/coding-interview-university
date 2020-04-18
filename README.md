@@ -198,8 +198,7 @@ Everything below is an outline, and you should tackle the items in order from to
 
 I'm using Github's special markdown flavor, including tasks lists to check progress.
 
-**Create a new branch so you can check items like this, just put an x in the brackets: [x]**
-
+** Create a new branch so you can check items like this, just put an x in the brackets: [x]**
 
     Fork a branch and follow the commands below
 
@@ -218,6 +217,8 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 `git rebase jwasham/master`
 
 `git push --force`
+
+- [x] Done Init
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
